@@ -1,5 +1,5 @@
-Meu nome é Vinicius 
-Estudando e aprendendo sempre!!
+My name: Vinicius 
+
 
 
 <div align="center">
